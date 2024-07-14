@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "roadtrip"
+version = "0.1.0"
+description = ""
+authors = ["shearere2 <shearere2@duq.edu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+django = "^5.0.7"
+pandas = "^2.2.2"
+seaborn = "^0.13.2"
+django-db = "^0.0.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
