@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "~/anaconda3/bin/python",
+    "python.pythonPath": "/Users/shearer/Desktop/Roadtrip/.venv/bin/python",
   
     "workbench.colorCustomizations": {
       "activityBar.background": "#773696"
